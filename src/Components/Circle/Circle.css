@@ -1,0 +1,32 @@
+.circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.beer1 {
+  background-image: url('./pics/beer1.svg');
+  opacity: 0.3;
+}
+
+.beer2 {
+  background-image: url('./pics/beer2.svg');
+  opacity: 0.3;
+}
+
+.beer3 {
+  background-image: url('./pics/beer3.svg');
+  opacity: 0.3;
+}
+
+.beer4 {
+  background-image: url('./pics/beer4.svg');
+  opacity: 0.3;
+}
+
+.circle.active {
+  opacity: 1;
+}
