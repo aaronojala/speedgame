@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/speedgame/static/css/main.fb622849.chunk.css",
+    "main.js": "/speedgame/static/js/main.e0c7379d.chunk.js",
+    "main.js.map": "/speedgame/static/js/main.e0c7379d.chunk.js.map",
+    "runtime-main.js": "/speedgame/static/js/runtime-main.bcafd782.js",
+    "runtime-main.js.map": "/speedgame/static/js/runtime-main.bcafd782.js.map",
+    "static/js/2.1f6e3b95.chunk.js": "/speedgame/static/js/2.1f6e3b95.chunk.js",
+    "static/js/2.1f6e3b95.chunk.js.map": "/speedgame/static/js/2.1f6e3b95.chunk.js.map",
+    "index.html": "/speedgame/index.html",
+    "static/css/main.fb622849.chunk.css.map": "/speedgame/static/css/main.fb622849.chunk.css.map",
+    "static/js/2.1f6e3b95.chunk.js.LICENSE.txt": "/speedgame/static/js/2.1f6e3b95.chunk.js.LICENSE.txt",
+    "static/media/Circle.css": "/speedgame/static/media/beer4.1b5cc4cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcafd782.js",
+    "static/js/2.1f6e3b95.chunk.js",
+    "static/css/main.fb622849.chunk.css",
+    "static/js/main.e0c7379d.chunk.js"
+  ]
+}
